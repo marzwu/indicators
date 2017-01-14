@@ -1,0 +1,5 @@
+{
+  "apikey": "your api key",
+  "secretkey": "your secret key",
+  "okcoinRESTURL": "www.okcoin.cn"
+}
